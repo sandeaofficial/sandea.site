@@ -1,3 +1,3 @@
 console.log("Redirecting!")
 
-window.location.href = 'Site/home';
+window.location.href = 'Site/ev';
